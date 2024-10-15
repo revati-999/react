@@ -1,0 +1,25 @@
+{
+  "name": "ignite_parcel",
+  "version": "1.0.0",
+  "description": "namaste react using parcel",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react"
+  },
+  "author": "revati",
+  "license": "ISC",
+  "dependencies": {
+    "browserlist": "last 3 versions",
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
